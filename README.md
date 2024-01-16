@@ -8,7 +8,7 @@ I've been coding for three years and currently developing my skills as a Full St
 
 * 🌍  I'm based in Cheyenne, WY
 * ✉️  You can contact me at [jessetcarter@gmail.com](mailto:jessetcarter@gmail.com)
-* 🧠  I'm learning CSS Toolkits to use with React (e.g. Chakra UI)
+* 🧠  I'm learning about implementing clustering on a server and loadtesting it for performance insight
 * ⚡  I love to learn just about anything! My interests include programming, music (especially Baroque), reading, video games, movies, physics, math...
 
 <a href="https://www.github.com/JCarter-coder" target="_blank" rel="noreferrer"><img
