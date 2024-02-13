@@ -4,12 +4,22 @@ Hi 👋 My name is Jesse Carter
 Full Stack Software Engineer
 ----------------------------
 
-I've been coding for three years and currently developing my skills as a Full Stack Developer. Computer Science undergraduate from SNHU in 2023, I am now researching Masters programs to begin in the summer of 2024.
+I've been programming for over three years and spend my time developing my skills as a Full Stack Developer. 
+
+Education:
+- Mathematics with Physics Emphasis, Associates in Arts
+- Computer Science, Bachelors of Science
+- Currently applying for a Masters programs to begin in the summer of 2024.
 
 * 🌍  I'm based in Cheyenne, WY
 * ✉️  You can contact me at [jessetcarter@gmail.com](mailto:jessetcarter@gmail.com)
 * 🧠  I'm learning React more deeply through a Frontend Masters learning path. Additionally, to understand the most recent advancements in cybersecurity and be marketable for government roles, I'm studying to obtain CompTIA Security+ certification.
-* ⚡  I love to learn just about anything! When I'm not programming, I'm likely watching SciFi or comedies with my children, listening and playing piano/violin, or learning German through Duolingo. Lastly, I enjoy reading, playing video games, and various volunteer work.
+* ⚡  I love to learn just about anything! When I'm not programming, I'm likely watching SciFi or comedies with my children, listening and playing piano/violin, or learning German through Duolingo. Lastly, I enjoy reading, playing video games, and accomplishing various volunteer work.
+* Education:
+  * Advanced Software Engineering Immersive Program
+  * Mathematics with Physics Emphasis, Associate of Arts
+  * Computer Science, Bachelor of Science
+  * (Preparing to start my Masters in 2024)
 
 <a href="https://www.github.com/JCarter-coder" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/JCarter-coder?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
