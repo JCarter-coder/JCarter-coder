@@ -14,7 +14,8 @@ I've been programming for over three years and spend my time learning popular an
   * Advanced Software Engineering Immersive Program
   * Mathematics with Physics Emphasis, Associate of Arts
   * Computer Science, Bachelor of Science
-  * (Preparing to start my Masters in 2024)
+  * Completed AWS Cloud Practitioner cert preparatory program
+  * Enrolled in Cybersecurity Workforce Certification Training (CWCT) - Artificial Intelligence path
 
 <a href="https://www.github.com/JCarter-coder" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/JCarter-coder?logo=github&style=for-the-badge&color=22c55e&labelColor=22272e" /></a>
