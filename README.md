@@ -8,10 +8,9 @@ I've been programming for over three years and spend my time learning popular an
 
 * 🌍  I'm based in Cheyenne, WY
 * ✉️  You can contact me at [jessetcarter@gmail.com](mailto:jessetcarter@gmail.com)
-* 🧠  I'm learning I'm learning React more deeply through a Frontend Masters learning path. Additionally, to understand the most recent cybersecurity best practices and be marketable for government roles, I'm studying to obtain CompTIA Security+ certification.
 * ⚡  I love to learn just about anything! When I'm not programming, I'm likely watching SciFi or comedies with my children, listening and playing piano/violin, or learning German through Duolingo. Lastly, I enjoy reading, playing video games, and accomplishing various volunteer work.
 * Education:
-  * Advanced Software Engineering Immersive Program
+  * Galvanize, Inc. - Level-Up (Advanced Software Engineering Immersive Program)
   * Mathematics with Physics Emphasis, Associate of Arts
   * Computer Science, Bachelor of Science
   * Completed AWS Cloud Practitioner cert preparatory program
