@@ -10,9 +10,9 @@ I've been programming for over three years and spend my time learning popular an
 * ✉️  You can contact me at [jessetcarter@gmail.com](mailto:jessetcarter@gmail.com)
 * ⚡  I love to learn just about anything! When I'm not programming, I'm likely watching SciFi or comedies with my children, listening and playing piano/violin, or learning German through Duolingo. Lastly, I enjoy reading, playing video games, and accomplishing various volunteer work.
 * Education:
+  * Bachelor of Science, Computer Science 
+  * Associate of Arts, Mathematics with Physics Emphasis
   * Galvanize, Inc. - Level-Up (Advanced Software Engineering Immersive Program)
-  * Mathematics with Physics Emphasis, Associate of Arts
-  * Computer Science, Bachelor of Science
   * Completed AWS Cloud Practitioner cert preparatory program
   * Enrolled in Cybersecurity Workforce Certification Training (CWCT) - Artificial Intelligence path
 
