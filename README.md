@@ -4,17 +4,17 @@ Hi 👋 My name is Jesse Carter
 Full Stack Software Engineer
 ----------------------------
 
-I've been programming for over three years and spend my time learning popular and interesting technologies to develop my skills as a Full Stack Software Engineer.
+I've been programming for over four years and spend my time learning popular and interesting technologies to develop my skills as a Full Stack Software Engineer.
 
 * 🌍  I'm based in Cheyenne, WY
 * ✉️  You can contact me at [jessetcarter@gmail.com](mailto:jessetcarter@gmail.com)
-* ⚡  I love to learn just about anything! When I'm not programming, I'm likely watching SciFi or comedies with my children, listening and playing piano/violin, or learning German through Duolingo. Lastly, I enjoy reading, playing video games, and accomplishing various volunteer work.
+* ⚡  I love to learn just about anything! When I'm not programming, I'm likely watching SciFi or comedies with my children or listening and playing piano/violin. Lastly, I enjoy reading, playing video games, and doing volunteer work.
 * Education:
+  * Enrolled in Master of Science, Software Engineering
   * Bachelor of Science, Computer Science 
   * Associate of Arts, Mathematics with Physics Emphasis
   * Galvanize, Inc. - Level-Up (Advanced Software Engineering Immersive Program)
-  * Completed AWS Cloud Practitioner cert preparatory program
-  * Enrolled in Cybersecurity Workforce Certification Training (CWCT) - Artificial Intelligence path
+  * Completed Cybersecurity Workforce Certification Training (CWCT) - Artificial Intelligence path
 
 <a href="https://www.github.com/JCarter-coder" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/JCarter-coder?logo=github&style=for-the-badge&color=22c55e&labelColor=22272e" /></a>
