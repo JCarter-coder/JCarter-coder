@@ -10,7 +10,7 @@ I've been programming for over four years and spend my time learning popular and
 * ✉️  You can contact me at [jessetcarter@gmail.com](mailto:jessetcarter@gmail.com)
 * ⚡  I love to learn just about anything! When I'm not programming, I'm likely watching SciFi or comedies with my children or listening and playing piano/violin. Lastly, I enjoy reading, playing video games, and doing volunteer work.
 * Education:
-  * Enrolled in Master of Science, Software Engineering
+  * Master of Science, Software Engineering (currently enrolled)
   * Bachelor of Science, Computer Science 
   * Associate of Arts, Mathematics with Physics Emphasis
   * Galvanize, Inc. - Level-Up (Advanced Software Engineering Immersive Program)
