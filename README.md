@@ -9,6 +9,8 @@ I've been programming for over four years and spend my time learning popular and
 * 🌍  I work out of Cheyenne, WY
 * ✉️  You can contact me at [jessetcarter+github@gmail.com](mailto:jessetcarter+github@gmail.com)
 * ⚡  I love to learn just about anything! When I'm not programming, I'm likely watching SciFi or comedies with my children or listening and playing piano/violin. Lastly, I enjoy reading, playing video games, and doing volunteer work.
+* Certification
+  * PCAP - Certified Associate Python Programmer (Aug 2025)
 * Education:
   * Master of Science, Software Engineering (currently enrolled)
   * Bachelor of Science, Computer Science 
