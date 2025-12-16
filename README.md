@@ -8,10 +8,12 @@ I've been programming for over four years and spend my time learning popular and
 * ✉️  You can contact me at [jessetcarter+github@gmail.com](mailto:jessetcarter+github@gmail.com)
 * ⚡  I love to learn just about anything! When I'm not programming, I'm likely watching SciFi or comedies with my children or listening and playing piano/violin. Lastly, I enjoy reading, playing video games, and doing volunteer work.
 * Certifications:
-  * AWS Cloud Practitioner (Sep 2025 - 2028)
+  * AWS Certified Cloud Practitioner (Sep 2025 - 2028)
   * PCAP - Certified Associate Python Programmer (Aug 2025)
+  * CompTIA Security+ (preparing)
+  * AWS Certified Solutions Architect Associate (preparing)
 * Education:
-  * Master of Science, Software Engineering (currently enrolled)
+  * Master of Science, Software Engineering (graduate summer 2026)
   * Bachelor of Science, Computer Science 
   * Associate of Arts, Mathematics with Physics Emphasis
   * Galvanize, Inc. - Level-Up (Advanced Software Engineering Immersive Program)
