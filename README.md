@@ -2,7 +2,7 @@
 
 ----------------------------
 
-I've been programming for over four years and spend my time learning popular and interesting technologies to develop my skills as a Full Stack Software Engineer.
+I've been programming for over four years and spend my time learning popular and interesting technologies to develop my skills as a Software Engineer.
 
 * 🌍  I work out of Cheyenne, WY
 * ✉️  You can contact me at [jessetcarter+github@gmail.com](mailto:jessetcarter+github@gmail.com)
