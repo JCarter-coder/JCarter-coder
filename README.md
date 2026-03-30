@@ -2,16 +2,15 @@
 
 ----------------------------
 
-I've been programming for over four years and spend my time learning popular and interesting technologies to develop my skills as a Software Engineer.
+I've been programming for over five years mostly focused on frontend/backend development, cloud services, and AI/ML. Continuously learning popular and interesting technologies to grow as a Software Engineer.
 
-* 🌍  I work out of Cheyenne, WY
+* 🌍  I live in Cheyenne, WY
 * ✉️  You can contact me at [jessetcarter+github@gmail.com](mailto:jessetcarter+github@gmail.com)
-* ⚡  I love to learn just about anything! When I'm not programming, I'm likely watching SciFi or comedies with my children or listening and playing piano/violin. Lastly, I enjoy reading, playing video games, and doing volunteer work.
+* ⚡  I enjoy learning just about anything! When I'm not on ZTM or PluralSight, I'm likely doing activities with my kids. Lastly, I enjoy reading, playing piano/violin, or indulging in video games.
 * Certifications:
   * AWS Certified Cloud Practitioner (Sep 2025 - 2028)
   * PCAP - Certified Associate Python Programmer (Aug 2025)
   * CompTIA Security+ (preparing)
-  * AWS Certified Solutions Architect Associate (preparing)
 * Education:
   * Master of Science, Software Engineering (graduate summer 2026)
   * Bachelor of Science, Computer Science 
