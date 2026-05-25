@@ -6,7 +6,7 @@ I've been programming for over five years mostly focused on frontend/backend dev
 
 * 🌍  I live in Cheyenne, WY
 * ✉️  You can contact me at [jessetcarter+github@gmail.com](mailto:jessetcarter+github@gmail.com)
-* ⚡  I enjoy learning just about anything! When I'm not on ZTM or PluralSight, I'm likely doing activities with my kids. Lastly, I enjoy reading, playing piano/violin, or indulging in video games.
+* ⚡  I enjoy learning just about anything! When I'm not on ZTM or PluralSight, I'm likely doing activities with my kids. I also enjoy reading, practicing violin/piano, and playing video games.
 * Certifications:
   * CompTIA Security+ (Apr 2026 - 2029)
   * AWS Certified Cloud Practitioner (Sep 2025 - 2028)
