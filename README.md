@@ -8,15 +8,17 @@ I've been programming for over five years mostly focused on frontend/backend dev
 * ✉️  You can contact me at [jessetcarter+github@gmail.com](mailto:jessetcarter+github@gmail.com)
 * ⚡  I enjoy learning just about anything! When I'm not on ZTM or PluralSight, I'm likely doing activities with my kids. Lastly, I enjoy reading, playing piano/violin, or indulging in video games.
 * Certifications:
+  * CompTIA Security+ (Apr 2026 - 2029)
   * AWS Certified Cloud Practitioner (Sep 2025 - 2028)
   * PCAP - Certified Associate Python Programmer (Aug 2025)
-  * CompTIA Security+ (preparing)
 * Education:
   * Master of Science, Software Engineering (graduate summer 2026)
   * Bachelor of Science, Computer Science 
   * Associate of Arts, Mathematics with Physics Emphasis
+* Professional Development:
+  * Level Up In Tech - Cloud DevOps Engineer program (attending)
   * Galvanize, Inc. - Level-Up (Advanced Software Engineering Immersive Program)
-  * Completed Cybersecurity Workforce Certification Training (CWCT) - Artificial Intelligence path
+  * Cybersecurity Workforce Certification Training (CWCT) - Artificial Intelligence path
 
 <a href="https://www.github.com/JCarter-coder" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/JCarter-coder?logo=github&style=for-the-badge&color=22c55e&labelColor=22272e" /></a>
