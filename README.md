@@ -4,7 +4,7 @@
 
 I've been programming for over five years mostly focused on frontend/backend development, cloud services, and AI/ML. Continuously learning popular and interesting technologies to grow as a Software Engineer.
 
-* 🌍  I live in Cheyenne, WY
+* 🌍  I work from Cheyenne, WY
 * ✉️  You can contact me at [jessetcarter+github@gmail.com](mailto:jessetcarter+github@gmail.com)
 * ⚡  I enjoy learning just about anything! When I'm not on ZTM or PluralSight, I'm likely doing activities with my kids. I also enjoy reading, practicing violin/piano, and playing video games.
 * Certifications:
